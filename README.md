@@ -1,0 +1,1 @@
+# Assignment-on-Naive-Bayes-for-Salarydata
